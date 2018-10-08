@@ -6,7 +6,7 @@ mkdir build
 cd build
 cmake ..
 make -j8
-make pycafef
+make pycaffe
 make test
 
 echo "完成"
